@@ -1,1 +1,1 @@
-[![Blogged with ✍️](https://a.b-b.top/badge.svg?repo=wordpress&label=Blogged%20with%20✍️&background_color=0288d1&background_color2=03a9f4&utm_source=github&utm_medium=readme&utm_campaign=badge)](https://a.b-b.top) 
+[![Blogged with ✍️](https://a.b-b.top/badge.svg?repo=wordpress&label=Blogged&background_color=0288d1&background_color2=03a9f4&utm_source=github&utm_medium=readme&utm_campaign=badge)](https://a.b-b.top) 
